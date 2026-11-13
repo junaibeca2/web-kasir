@@ -1,4 +1,4 @@
-# Kasir Toko (PHP + MariaDB)
+# Kasir Toko (PHP + PhpMyAdmin)
 
 Aplikasi kasir lokal untuk XAMPP. Fitur: login super admin/karyawan, katalog menu, input dan edit pesanan, cetak struk 80 mm, unggah logo toko, laporan penjualan terbatas untuk super admin, dan pengelolaan akun karyawan.
 
